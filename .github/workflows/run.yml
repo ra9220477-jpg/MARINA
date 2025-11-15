@@ -1,5 +1,5 @@
 name: Node.js CI
-
+bot
 on:
   push:
     branches: [main]
